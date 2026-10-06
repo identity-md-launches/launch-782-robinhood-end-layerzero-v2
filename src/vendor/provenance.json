@@ -1,0 +1,26 @@
+[
+  {
+    "package": "@layerzerolabs/oft-evm",
+    "version": "4.0.1",
+    "tarball": "https://registry.npmjs.org/@layerzerolabs/oft-evm/-/oft-evm-4.0.1.tgz",
+    "integrity": "sha512-GjjfnUbx77TnFFKALVRXJYb1bt1jvarcyyx/AQo6sZfJng5DIqzI9wDxEGlUz03tEnsS6ZOOLBsH+e/hYsruiA=="
+  },
+  {
+    "package": "@layerzerolabs/oapp-evm",
+    "version": "0.4.1",
+    "tarball": "https://registry.npmjs.org/@layerzerolabs/oapp-evm/-/oapp-evm-0.4.1.tgz",
+    "integrity": "sha512-eOoDepVSrUlVNIlnkH0Vd5Vt4lXBkSBh6Bb16vsLbaN9AryBjy4GDpsE7K4c8iWTFL9BiBXGsV7nJTkgqi+xRQ=="
+  },
+  {
+    "package": "@layerzerolabs/lz-evm-protocol-v2",
+    "version": "3.0.148",
+    "tarball": "https://registry.npmjs.org/@layerzerolabs/lz-evm-protocol-v2/-/lz-evm-protocol-v2-3.0.148.tgz",
+    "integrity": "sha512-W5m52g7bH9pNJqN3/kqGWCF6TQo9fUlSJLgPvdT+gmkfH3ZNwzXG0SnTuZaRI7LgHkopeBUZPtj2O8T5PQPYoA=="
+  },
+  {
+    "package": "@openzeppelin/contracts",
+    "version": "4.9.6",
+    "tarball": "https://registry.npmjs.org/@openzeppelin/contracts/-/contracts-4.9.6.tgz",
+    "integrity": "sha512-xSmezSupL+y9VkHZJGDoCBpmnB2ogM13ccaYDWqJTfS3dbuHkgjuwDFUmaFauBCboQMGB/S5UqUl2y54X99BmA=="
+  }
+]

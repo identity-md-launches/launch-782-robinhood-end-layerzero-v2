@@ -1,0 +1,25 @@
+[profile.default]
+src = "src"
+test = "test"
+out = "out"
+libs = []
+solc = "0.8.26"
+evm_version = "paris"
+optimizer = true
+optimizer_runs = 200
+bytecode_hash = "none"
+ffi = false
+fs_permissions = []
+remappings = [
+  "@layerzerolabs/oft-evm/=src/vendor/@layerzerolabs/oft-evm/",
+  "@layerzerolabs/oapp-evm/=src/vendor/@layerzerolabs/oapp-evm/",
+  "@layerzerolabs/lz-evm-protocol-v2/=src/vendor/@layerzerolabs/lz-evm-protocol-v2/",
+  "@openzeppelin/contracts/=src/vendor/@openzeppelin/contracts/",
+  "forge-std/=test/vendor/forge-std/src/"
+]
+
+[profile.default.fuzz]
+runs = 256
+
+[fmt]
+ignore = ["src/vendor/**", "test/vendor/**"]

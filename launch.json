@@ -1,0 +1,10 @@
+{
+  "kind": "evm_contracts",
+  "contracts": [
+    {
+      "contract": "ZeroToOne",
+      "constructorArgs": []
+    }
+  ],
+  "notes": "Robinhood ZTO OFT. No constructor arguments or deployment ETH. Owner/delegate, endpoint, and the sole Ethereum peer are fixed in source as specified in README.md. Constructor delegate registration is guarded by endpoint code presence; real-chain deployment registers the delegate immediately. Operators must configure the reciprocal Ethereum peer and both LayerZero security pathways before use."
+}

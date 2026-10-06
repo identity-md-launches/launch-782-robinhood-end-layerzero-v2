@@ -1,0 +1,7 @@
+{
+  "src/vendor/@openzeppelin/contracts/LICENSE": "https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/v4.9.6/LICENSE",
+  "src/vendor/@layerzerolabs/lz-evm-protocol-v2/LICENSE-LZBL-1.2": "https://raw.githubusercontent.com/LayerZero-Labs/LayerZero-v2/main/LICENSE-LZBL-1.2",
+  "src/vendor/@layerzerolabs/lz-evm-protocol-v2/LICENSE-MIT": "https://raw.githubusercontent.com/LayerZero-Labs/LayerZero-v2/main/LICENSE-MIT",
+  "src/vendor/@layerzerolabs/oft-evm/LICENSE-MIT": "https://raw.githubusercontent.com/LayerZero-Labs/LayerZero-v2/main/LICENSE-MIT",
+  "src/vendor/@layerzerolabs/oapp-evm/LICENSE-MIT": "https://raw.githubusercontent.com/LayerZero-Labs/LayerZero-v2/main/LICENSE-MIT"
+}
